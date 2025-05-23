@@ -43,7 +43,7 @@ The dashboard tracks key performance indicators (KPIs) such as:
 - Build a comprehensive data model with necessary joins and relationships.
 - Optimize the model for performance by indexing and aggregating data where required
 
- #### Dashboard Development: Tableau
+ #### Dashboard Development: Tableau [Tableau Live Dashboard](https://public.tableau.com/app/profile/glyny.george/viz/supplychaindashboard_17479784865720/Dashboard1)
 - Design interactive dashboards in Tableau and Power BI.
 - Ensure a user-friendly interface with filters, drill-throughs, and tooltips.
 - Incorporate advanced analytics, such as trend analysis and forecasting.
